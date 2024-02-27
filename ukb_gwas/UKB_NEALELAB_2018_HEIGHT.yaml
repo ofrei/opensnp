@@ -1,0 +1,13 @@
+cleansumstats_metafile_kind: minimal
+path_sumStats: 50_irnt.gwas.imputed_v3.both_sexes.tsv
+col_BETA: beta
+col_CHR: variant
+col_EffectAllele: variant
+col_N: n_complete_samples
+col_OtherAllele: variant
+col_P: pval
+col_POS: variant
+col_SE: se
+stats_Model: linear
+stats_neglog10P: false
+
